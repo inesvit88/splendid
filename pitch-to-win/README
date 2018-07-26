@@ -1,1 +1,61 @@
-selfexplanatory what goes here
+Daily Scrum
+------------
+
+A daily scrum in the computing room. This centralized location helps the team start on time.
+Each day during a sprint, the team holds a daily scrum (or stand-up) with specific guidelines:
+
+All members of the development team come prepared. The daily scrum:
+starts precisely on time even if some development team members are missing
+should happen at the same time and place every day
+is limited (timeboxed) to fifteen minutes
+Anyone is welcome, though only development team members should contribute.
+During the daily scrum, each team member typically answers three questions:
+What did I complete yesterday that contributed to the team meeting our sprint goal?
+What do I plan to complete today to contribute to the team meeting our sprint goal?
+Do I see any impediment that could prevent me or the team from meeting our sprint goal?
+
+===>
+
+TOPIC: B2O (BSRO & BATO) Testautomation and reporting
+
+CURRENT STATE: See attached pdf
+
+
+AGENDA:
+
+Igor to demo MVP (Minimum Viable Product)
+
+Q&A session:
+    - What risks, impediments, dependencies, or assumptions got resolved since we last met?
+    - What risks, impediments, dependencies, or assumptions will be resolved before we meet again?
+    - Are there any new risks, impediments, dependencies, or assumptions slowing us down or getting in the way?
+    - Are you about to introduce a new risk, impediment, dependency, or assumption that will extend the DoD timeline (Definition of Done) ?
+
+Note:
+
+The minimum aspect of MVP encourages DevOps team to deliver woring solutions faster and cut the TTM.
+
+
+PBI (product backlog):
+- Empty (not for long...)
+
+Sprint 1: MVP: Jenkins python3 and pytest execution from git
+Sprint 2: MVP: TestRail and Docker (python3, selenium), Selenium-Grid impl-9n
+Sprint 3: MVP: Integration with git and Jenkins
+Sprint 4: TKR: (Technical Knowledge Transfer)
+Sprint 5: DoD: BSRO & BATO tests implementation
+
+Milestones: Sprint1 - Sprint3: MVP Demo, KTR, DoD
+
+
+PM 5 phases
+-----------
+https://www.officetimeline.com/project-management
+
+
+Project Initiation
+Project planning and design
+Project execution
+Project monitoring and control
+Project completion and close out
+
